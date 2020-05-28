@@ -19,30 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab4cf529-ebb7-455e-bb12-695b1d1ca5f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/getHttpsConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ReduxTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReduxTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="ab4cf529-ebb7-455e-bb12-695b1d1ca5f3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
