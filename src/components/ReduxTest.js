@@ -21,6 +21,7 @@ class ReduxTest extends Component {
         const {num, add, minus, asyncAdd} = this.props
         return (
             <div>
+                <p>redux</p>
                 <p>{num}</p>
                 <div>
                     <button onClick={() => add()}>+</button>
