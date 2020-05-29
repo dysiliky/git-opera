@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab4cf529-ebb7-455e-bb12-695b1d1ca5f3" name="Default Changelist" comment="" />
+    <list default="true" id="ab4cf529-ebb7-455e-bb12-695b1d1ca5f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,10 +89,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590574558543" />
-    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1590572988585">
+    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1590722084600">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590572988585" />
+    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590722084600" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1590572283457">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
