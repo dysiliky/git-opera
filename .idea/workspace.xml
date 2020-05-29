@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4cf529-ebb7-455e-bb12-695b1d1ca5f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ReduxTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReduxTest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <workItem from="1590488868076" duration="4309000" />
       <workItem from="1590545716906" duration="5208000" />
       <workItem from="1590569477642" duration="5974000" />
-      <workItem from="1590723708191" duration="634000" />
+      <workItem from="1590723708191" duration="949000" />
     </task>
     <servers />
   </component>
