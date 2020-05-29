@@ -21,8 +21,6 @@ class ReduxTest extends Component {
         const {num, add, minus, asyncAdd} = this.props
         return (
             <div>
-                <p>1</p>
-                <p>2</p>
                 <p>redux</p>
                 <p>{num}</p>
                 <div>
