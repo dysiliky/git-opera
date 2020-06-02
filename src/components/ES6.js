@@ -36,6 +36,21 @@ class Es6 extends Component {
         console.log(m.entries()) // {"hello" => 42}   34
        // for (let [k, v] of m.entries()) console.log(k + ':' + v) // 报错，原因[k, v], Cannot convert a Symbol value to a string
         for (let item of m.entries())  console.log(item) // ["hello", 42]    [Symbol(), 34]
+
+
+        // ...
+        let arr1 = [21, 42, 53, 45, 2, 2, 4, 5, 6, 3, 3, 2]
+        console.log(new Set(arr1), [...new Set(arr1)], ...arr1, '-----------------arr1')
+
+        this.argTest(2, 3, {
+            a: 1,
+            b: 2,
+            c: 3
+        }, )
+    }
+
+    argTest(a, ...args) {
+        console.log(...args, '======================args')
     }
 
     f([ name, val ]) {

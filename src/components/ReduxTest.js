@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import {add, minus, asyncAdd} from "../store/counter";
+import test from "./test";
 
 /*const mapStateToProps = state => ({num: state})
 const mapDispatchToProps = dispatch => ({
@@ -17,14 +18,20 @@ const mapDispatchToProps = dispatch => ({
     }
 )
 class ReduxTest extends Component {
+    componentDidMount() {
+        let pre = document.querySelector('.redux')
+        console.log(pre.previousElementSibling.tagName.toLowerCase(), '========')
+    }
+
     render() {
         const {num, add, minus, asyncAdd} = this.props
         return (
             <div>
-                <p>commit amend</p>
-                <p>redux</p>
+                html
                 <p>{num}</p>
                 <div>
+                    <audio className="ndsjf">commit amend</audio>
+                    <p className="redux">redux</p>
                     <button onClick={() => add()}>+</button>
                     <button onClick={() => minus()}>-</button>
                     <button onClick={() => asyncAdd()}>asyncAdd</button>
