@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import {add, minus, asyncAdd} from "../store/counter";
-import test from "./test";
+// import test from "./test";
 
 /*const mapStateToProps = state => ({num: state})
 const mapDispatchToProps = dispatch => ({
