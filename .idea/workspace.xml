@@ -83,6 +83,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625210133883">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1625210133883" />
     <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1625209213675">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
